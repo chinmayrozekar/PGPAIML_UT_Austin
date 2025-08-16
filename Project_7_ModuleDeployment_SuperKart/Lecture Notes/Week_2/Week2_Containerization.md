@@ -67,3 +67,14 @@ Virtual machine goes into a container
 
 Base image is starting point for most container-based development workflows
 
+
+
+## Container Image
+
+
+
+![alt text](image-7.png)
+
+
+# 2.5 Introduction to Dockerfile
+
