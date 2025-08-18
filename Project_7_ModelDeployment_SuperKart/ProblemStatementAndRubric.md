@@ -153,35 +153,35 @@ Points
 7
 Criteria
 ## Model Performance Comparison, Final Model Selection, and Serialization
-- [ ] Compare the performances of all models built and choose the best model (with proper rationale)
-- [ ] Check the performance of the best model on the test set
-- [ ] Serialize the best model
-- [ ] Load the serialized model and make predictions on the test set
+- [x] Compare the performances of all models built and choose the best model (with proper rationale)
+- [x] Check the performance of the best model on the test set
+- [x] Serialize the best model
+- [x] Load the serialized model and make predictions on the test set
 Points
 7
 Criteria
 ## Deployment - Backend
-- [ ] Define the Flask API
-- [ ] Define the dependencies
-- [ ] Define the Dockerfile
-- [ ] Create the Docker space in Hugging Face
-- [ ] Upload the files to the space
-- [ ] Share the link of the Hugging Face space
+- [x] Define the Flask API
+- [x] Define the dependencies
+- [x] Define the Dockerfile
+- [x] Create the Docker space in Hugging Face
+- [x] Upload the files to the space
+- [x] Share the link of the Hugging Face space
 Points
 9
 Criteria
 ## Deployment - Frontend
-- [ ] Define the streamlit web application
-- [ ] Define the dependencies file
-- [ ] Create the Streamlit space in Hugging Face
-- [ ] Upload the files to the space
-- [ ] Share the link of the Hugging Face space
+- [x] Define the streamlit web application
+- [x] Define the dependencies file
+- [x] Create the Streamlit space in Hugging Face
+- [x] Upload the files to the space
+- [x] Share the link of the Hugging Face space
 Points
 7
 Criteria
 ## Actionable Insights and Recommendations
-- [ ] Write down insights from the analysis conducted
-- [ ] Provide actionable business recommendations
+- [x] Write down insights from the analysis conducted
+- [x] Provide actionable business recommendations
 Points
 4
 Criteria

@@ -2,7 +2,7 @@
 marp: true
 ---
 
-# Project SuperKart Trouble Shooting Guide
+# Project SuperKart Trouble Shooting Notes
 
 ## These slides are a collection of Potential Issues someone can run into
 
@@ -14,11 +14,10 @@ Original Credits: *Todd Grayson* (PGPAIML)
 
 # Deployment Backend
 
-Credits: _Todd Grayson_
 
 This is the issue i faced:
 
-<img src="WhatsApp Image 2025-08-17 at 20.14.21_4266e15a.jpg" alt="alt text" width="950" />
+<img src="WhatsApp%20Image%202025-08-17%20at%2020.14.21_4266e15a.jpg" alt="alt text" width="950" />
 
 ---
 **This is the line causing the fail:**
@@ -116,4 +115,4 @@ https://huggingface.co/spaces/chinmayrozekar/SuperKart-FrontEnd
 
 ---
 
-![alt text](image-1.png)
+<img src="image-1.png" alt="alt text" width="560" />
